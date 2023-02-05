@@ -12,6 +12,7 @@ public class CCuenta {
         return nombre;
     }
 
+    
     /**
      * @param nombre the nombre to set
      */
